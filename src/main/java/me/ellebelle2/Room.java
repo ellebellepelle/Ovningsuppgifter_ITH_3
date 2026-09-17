@@ -25,7 +25,7 @@ public class Room {
     }
 
 
-    // Metod book() som ändrar isBooked (med lämplig kontroll -
+    // Metod book() (om jag vill boka ett rum,) som ändrar isBooked (med lämplig kontroll -
     // man kan inte boka ett redan bokat rum)
 
     public boolean book() {
